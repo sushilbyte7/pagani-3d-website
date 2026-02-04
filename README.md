@@ -3,10 +3,10 @@
 
 ## Gallery
 
-![Hero Section](/screenshots/hero.png)
-![Side Profile](/screenshots/profile.png)
-![Engine Detail](/screenshots/engine.png)
-![Features](/screenshots/features.png)
+![Hero Section](public/screenshots/hero.png)
+![Side Profile](public/screenshots/profile.png)
+![Engine Detail](public/screenshots/engine.png)
+![Features](public/screenshots/features.png)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
