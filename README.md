@@ -1,6 +1,8 @@
 # Pagani Zonda R - 3D Website
 [Live Demo](https://devsushil-pagani-zonda.netlify.app/)
 
+![Website Screenshot](/website-screenshot.png)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
